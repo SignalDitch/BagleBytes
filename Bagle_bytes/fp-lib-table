@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Custom_Silk)(type KiCad)(uri "$(KISYSMOD)/Custom_Silk.pretty")(options "")(descr ""))
+)
